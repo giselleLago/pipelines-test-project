@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/gisellelago259940889/ProjectTests/_apis/build/status/giselleLago.pipelines-test-project?branchName=master)](https://dev.azure.com/gisellelago259940889/ProjectTests/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
